@@ -5,9 +5,13 @@ finished and not yet posted to github.
 
 
 ## Information
+Quartz Game Engine is envisioned to be a lightweight 2D game engine, similar to unity but more compact, user friendly and beginner friendly.  
+
 This project is coded in **C#** using the **.net6.0 framework.**
 
 [Dotnet](https://dotnet.microsoft.com/en-us/) AKA .net is an open-source framework for c# developed by Microsoft.
+
+
 
 
 ## Links
